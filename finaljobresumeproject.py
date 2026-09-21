@@ -1,7 +1,7 @@
-# -----------------------------------------------------------
+# ----------------------------------------------------------
 # JOB–RESUME SKILL MATCHER (Professional GUI Version)
 # Using Python, Tkinter, NLTK, Pandas, NumPy, Scikit-learn
-# -----------------------------------------------------------
+# ----------------------------------------------------------
 
 import tkinter as tk
 from tkinter import filedialog, messagebox, Text
